@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">POEMS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello HoME fragment</string>
+    <string name="poem_fragement">POEM FRAG</string>
+    <string name="poet_fragment">POET FRAGMENT</string>
+</resources>
